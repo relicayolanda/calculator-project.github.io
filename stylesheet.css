@@ -4,15 +4,15 @@
 	left: 50%;
 	transform: translateX(-50%) translateY(-50%);
 	width: fixed;
-	background: rgba(0,0,0,0.4);
-	padding: 25px;
-	border-radius: 15px;
+	background: rgba(168, 74, 129, 0.4);
+	padding: 40px;
+	border-radius: 20px;
 	box-shadow: 0 0 15px;
 }
 
 .main h2 {
 	text-align: center;
-	color: white;
+	color: rgb(0, 0, 0);
 	text-transform: uppercase;
 }
 
@@ -23,24 +23,22 @@
 	margin: 2px;
 	cursor: pointer;
 	border: none;
-	background: #607d8b;
-	color: white;
+	background: #963676;
+	color: rgb(15, 15, 15);
 	border-radius: 25px;
 	
 }
 
-.btn-green {
-	background:lightgreen;
-	color:#607d8b;
+.btn-ungu {
+	background:rgb(138, 104, 145);
+	color:#070607;
 }
 
 .textarea {
 	width: 204px;
 	margin: 4px;
 	font-size: 20px;
-	padding: 10px;
+	padding: 20px;
 	border: none;
 	color: rgb(172, 28, 160)
-	border-radius: 25px;
-	text-align: right;
 }
